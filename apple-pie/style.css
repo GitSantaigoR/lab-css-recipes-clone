@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+ul { list-style: '- ';}
+.img1{
+    width: ;
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url('./lab-css-recipes-clone/apple-pie/');
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
